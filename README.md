@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mahyar</h1>
 <h3 align="center">Young programmer :)</h3>
   
+
+- 💻 Trying to become a **Python developer**
+
+- 🐯 My website [PyCat](pycat.ir)
+
+- ⚡ WordPress & HTML/CSS Developer 
+  
   ---
-  
-  
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"> 
