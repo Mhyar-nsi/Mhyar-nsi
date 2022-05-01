@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahyar</h1>
 <h3 align="center">Young programmer :)</h3>
   
-
 - 💻 Trying to become a **Python developer**
 
 - 🐯 My website <a href="https://pycat.ir">PyCat</a>
@@ -9,6 +8,7 @@
 - ⚡ WordPress & HTML/CSS Developer 
   
   ---
+  
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.python.org/" target="_blank"> 
@@ -22,7 +22,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60" width="60" alt="css3"/>
   </p>
-  
   <h3 align="center">Database</h3>
   <p align="center">
     <a href="https://www.mysql.com/" target="_blank"> 
@@ -42,12 +41,10 @@
     </a>
   </p>
 
-  
   ----
   
   <div align="center">
-  <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-  
+
   [![](https://github-readme-stats.vercel.app/api?username=mhyar-nsi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
   [![](https://github-readme-streak-stats.herokuapp.com/?user=mhyar-nsi&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
   </div>
