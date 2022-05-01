@@ -4,7 +4,11 @@
   ---
   
   
-
+<h3 align="center">Languages</h3>
+<p align="center">
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="70" width="70" alt="python"/>
+  </a>
   <h3 align="center">Frontend</h3>
   <p align="center">
     <a href="https://www.w3.org/html/" target="_blank"> 
