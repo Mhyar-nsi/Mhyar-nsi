@@ -47,6 +47,12 @@
   </p>
 
   ----
+  <div align="center">
+    <img src="https://assets.tryhackme.com/room-badges/cfed3c481bb65d6d38c2bdb360b8e049.png">
+    <img src="https://assets.tryhackme.com/room-badges/a3d22f1f6250b786640201679609cdae.png">
+  </div>
+  
+  ----
   
   <div align="center">
 
@@ -62,17 +68,6 @@
   </p>
 
   <div align="center">
-    <a href="https://t.me/Mhyar_nsi" targert="_blank">
-      <img src="https://img.shields.io/badge/My-Telegram%20-blue?style=for-the-badge&logo=Telegram">  
-    </a>
-    <a href="https://Twitter.com/Mhyar_nsi" target="_blank">
-      <img src="https://img.shields.io/badge/My-Twitter-9cf?style=for-the-badge&logo=Twitter">
-    </a>
-    <a href="https://instagram.com/Mhyar_nsi" target="_blank">
-      <img src="https://img.shields.io/badge/My-Instagram-orange?style=for-the-badge&logo=Instagram">
-    </a>
-  </div>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Discord-Mahyar%233124-green?style=for-the-badge&logo=Discord">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Mhyarnsi.png" alt="TryHackMe">
   </div>
   
