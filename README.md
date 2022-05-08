@@ -6,7 +6,12 @@
 - 🐯 My website <a href="https://pycat.ir">PyCat</a>
 
 - ⚡ WordPress & HTML/CSS Developer 
+
+  <div align="center">
   
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyar-nsi&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
+  </div>
+
   ---
   
 <h3 align="center">Languages</h3>
@@ -55,3 +60,19 @@
     <img  src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"
       alt="example" />
   </p>
+
+  <div align="center">
+    <a href="https://t.me/Mhyar_nsi" targert="_blank">
+      <img src="https://img.shields.io/badge/My-Telegram%20-blue?style=for-the-badge&logo=Telegram">  
+    </a>
+    <a href="https://Twitter.com/Mhyar_nsi" target="_blank">
+      <img src="https://img.shields.io/badge/My-Twitter-9cf?style=for-the-badge&logo=Twitter">
+    </a>
+    <a href="https://instagram.com/Mhyar_nsi" target="_blank">
+      <img src="https://img.shields.io/badge/My-Instagram-orange?style=for-the-badge&logo=Instagram">
+    </a>
+  </div>
+  <div align="center">
+    <img src="https://img.shields.io/badge/Discord-Mahyar%233124-green?style=for-the-badge&logo=Discord">
+  </div>
+  
