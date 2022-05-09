@@ -48,8 +48,11 @@
 
   ----
   <div align="center">
-    <img src="https://assets.tryhackme.com/room-badges/cfed3c481bb65d6d38c2bdb360b8e049.png">
-    <img src="https://assets.tryhackme.com/room-badges/a3d22f1f6250b786640201679609cdae.png">
+    <a href="https://tryhackme.com/p/Mhyarnsi">
+      <img src="https://assets.tryhackme.com/room-badges/cfed3c481bb65d6d38c2bdb360b8e049.png">
+      <img src="https://assets.tryhackme.com/room-badges/a3d22f1f6250b786640201679609cdae.png">
+      <img src="https://assets.tryhackme.com/room-badges/c29120c3d0d9dcffb7df264fd80fcc46.png">
+    </a>
   </div>
   
   ----
@@ -66,8 +69,3 @@
     <img  src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"
       alt="example" />
   </p>
-
-  <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Mhyarnsi.png" alt="TryHackMe">
-  </div>
-  
