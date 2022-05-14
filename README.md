@@ -49,9 +49,10 @@
   ----
   <div align="center">
     <a href="https://tryhackme.com/p/Mhyarnsi">
-      <img src="https://assets.tryhackme.com/room-badges/cfed3c481bb65d6d38c2bdb360b8e049.png">
       <img src="https://assets.tryhackme.com/room-badges/a3d22f1f6250b786640201679609cdae.png">
       <img src="https://assets.tryhackme.com/room-badges/c29120c3d0d9dcffb7df264fd80fcc46.png">
+      <img src="https://assets.tryhackme.com/room-badges/cfed3c481bb65d6d38c2bdb360b8e049.png">
+      <img src="https://assets.tryhackme.com/room-badges/e256444c1da766d7427940a185e1615d.png">
     </a>
   </div>
   
