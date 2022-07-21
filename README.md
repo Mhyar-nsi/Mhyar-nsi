@@ -41,21 +41,11 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60" width="60" 
         alt="git"/>
     </a>
-    <a href="https://github.com/boshra-irnd" target="_blank">
+    <a href="https://github.com/Mhyar-nsi" target="_blank">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="60" alt="github" />
     </a>
   </p>
 
-  ----
-  <div align="center">
-    <a href="https://tryhackme.com/p/Mhyarnsi">
-      <img src="https://assets.tryhackme.com/room-badges/a3d22f1f6250b786640201679609cdae.png">
-      <img src="https://assets.tryhackme.com/room-badges/c29120c3d0d9dcffb7df264fd80fcc46.png">
-      <img src="https://assets.tryhackme.com/room-badges/cfed3c481bb65d6d38c2bdb360b8e049.png">
-      <img src="https://assets.tryhackme.com/room-badges/e256444c1da766d7427940a185e1615d.png">
-    </a>
-  </div>
-  
   ----
   
   <div align="center">
