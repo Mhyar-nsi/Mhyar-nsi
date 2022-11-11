@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mahyar</h1>
 <img align="center" src="https://raw.githubusercontent.com/Mhyar-nsi/Mhyar-nsi/main/Hello%20world.png">
   
-- 💻 Trying to become a **Python developer**
-
-- 🐯 My website <a href="https://roidyar.com">Roidyar</a>
-
-- ⚡ WordPress & HTML/CSS Developer 
+- 💻 Python & Web developer
+- ⚡ Electrical student
 
   <div align="center">
   
