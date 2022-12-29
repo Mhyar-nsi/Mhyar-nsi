@@ -1,23 +1,33 @@
-<h1 align="center">Hi 👋, I'm Mahyar</h1>
-<img align="center" src="https://raw.githubusercontent.com/Mhyar-nsi/Mhyar-nsi/main/Hello%20world.png">
+<h1>Yo , i'm Mahyar</h1>
+ <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=148422&width=435&lines=Are+you+a+1+or+a+0+%3F+" alt="Typing SVG" />
+ 
   
-- 💻 Python & Web developer
-- ⚡ Electrical student
+- 💻 FullStack developer.
+- 👽 20 years old , from iran/karaj.
+- ⚡ Electrical student.
+- 🌐 my website : <a href="https://roidyar.ir" target="_blank">Roidyar<a>
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=mhyar-nsi&style=for-the-badge&color=blueviolet">
+ <img src="https://img.shields.io/github/followers/mhyar-nsi?color=blueviolet&label=follow&style=for-the-badge">
+ </div>
+<br>
+<img align="center" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966">
 
-  <div align="center">
-  
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhyar-nsi&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
-  </div>
 
   ---
   
 <h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://www.python.org/" target="_blank"> 
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2-300x300.png" height="70" width="70" alt="python"/>
+      <a href="https://www.python.org/" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="70" width="70" alt="python"/>
   </a>
   <h3 align="center">Frontend</h3>
   <p align="center">
+      <a href="https://getbootstrap.com/" target="_blank"> 
+     <img src="https://camo.githubusercontent.com/33377b0d016b02736d9ef409e74be77bce2e6ed2397bf0e505c0792e49f3c6b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2d776f72646d61726b2e737667" height="60" width="60" alt="html5"/> 
+    </a>
     <a href="https://www.w3.org/html/" target="_blank"> 
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" width="60" alt="html5"/> 
     </a>
