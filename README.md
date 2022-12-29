@@ -5,7 +5,7 @@
 - 💻 FullStack developer.
 - 👽 20 years old , from iran/karaj.
 - ⚡ Electrical student.
-- 🌐 my website : <a href="https://roidyar.ir" target="_blank">Roidyar<a>
+- 🌐 Website : <a href="https://roidyar.ir" target="_blank">Roidyar<a>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=mhyar-nsi&style=for-the-badge&color=blueviolet">
  <img src="https://img.shields.io/github/followers/mhyar-nsi?color=blueviolet&label=follow&style=for-the-badge">
