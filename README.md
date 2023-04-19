@@ -1,17 +1,14 @@
-<h1>Yo , i'm Mahyar</h1>
- <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=148422&width=435&lines=Are+you+a+1+or+a+0+%3F+" alt="Typing SVG" />
- 
-  
-- 💻 FullStack developer.
-- 👽 20 years old , from iran/karaj.
-- ⚡ Electrical student.
-- 🌐 Website : <a href="https://roidyar.ir" target="_blank">Roidyar<a>
+<div align="center">
+ <h3>Hey, I'm Mahyar :D</h3>
+ <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/zakoriart-commission-piece-for-game.jpg" alt="bg" />
+</div>
+<br>
 <div align="center">
  <img src="https://komarev.com/ghpvc/?username=mhyar-nsi&style=for-the-badge&color=blueviolet">
  <img src="https://img.shields.io/github/followers/mhyar-nsi?color=blueviolet&label=follow&style=for-the-badge">
  </div>
 <br>
-<img align="center" src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966">
+
 
 
   ---
@@ -61,9 +58,7 @@
   [![](https://github-readme-streak-stats.herokuapp.com/?user=mhyar-nsi&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
   </div>
   
-  ----
-  
   <p align="center">
-    <img  src="https://raw.githubusercontent.com/ahmubashshir/ahmubashshir/output/github-contribution-grid-snake.svg"
-      alt="example" />
+    <img  src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"
+      alt="api" />
   </p>
