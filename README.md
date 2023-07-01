@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="650" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/zakoriart-commission-piece-for-game.jpg"  />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/zakoriart-commission-piece-for-game.jpg"  />
 </div>
 
 ###
