@@ -1,64 +1,128 @@
+<h1 align="center">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Mahyar and I'm a Full-Stack Developer, from Iran/Karaj.</p>
+
+###
+
 <div align="center">
- <h3>Hey, I'm Mahyar :D</h3>
- <img src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/zakoriart-commission-piece-for-game.jpg" alt="bg" />
+  <img height="650" src="https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/zakoriart-commission-piece-for-game.jpg"  />
 </div>
-<br>
+
+###
+
+<br clear="both">
+
+<h2 align="center">I code with</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
- <img src="https://komarev.com/ghpvc/?username=mhyar-nsi&style=for-the-badge&color=blueviolet">
- <img src="https://img.shields.io/github/followers/mhyar-nsi?color=blueviolet&label=follow&style=for-the-badge">
- </div>
-<br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" alt="html5 logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="100" alt="css3 logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="100" alt="bootstrap logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" alt="javascript logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" alt="react logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="100" alt="nodejs logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" alt="python logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="100" alt="flask logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="100" alt="php logo"  />
+  <img width="35" />
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="100" alt="laravel logo"  />
+</div>
 
+###
 
+<h2 align="center">Tools</h2>
 
-  ---
-  
-<h3 align="center">Languages</h3>
-<p align="center">
-  <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://www.britefish.net/wp-content/uploads/2019/06/logo-javascript-2-300x300.png" height="70" width="70" alt="python"/>
-      <a href="https://www.python.org/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" height="70" width="70" alt="python"/>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="100" alt="vscode logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="100" alt="phpstorm logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="100" alt="pycharm logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="100" alt="webstorm logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="100" alt="androidstudio logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="100" alt="git logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="100" alt="github logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="100" alt="linux logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="100" alt="photoshop logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="100" alt="atom logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="100" alt="chrome logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="100" alt="filezilla logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h2 align="center">Databese</h2>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="100" alt="sqlite logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="100" alt="mysql logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="100" alt="redis logo"  />
+</div>
+
+###
+
+<h2 align="center">My activities</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mhyar-nsi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mhyar-nsi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="center">Social media</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://twitter.com/Mhyar_nsi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="74" height="40" alt="twitter logo"  />
   </a>
-  <h3 align="center">Frontend</h3>
-  <p align="center">
-      <a href="https://getbootstrap.com/" target="_blank"> 
-     <img src="https://camo.githubusercontent.com/33377b0d016b02736d9ef409e74be77bce2e6ed2397bf0e505c0792e49f3c6b3/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2d776f72646d61726b2e737667" height="60" width="60" alt="html5"/> 
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank"> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="60" width="60" alt="html5"/> 
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="60" width="60" alt="css3"/>
-  </p>
-  <h3 align="center">Database</h3>
-  <p align="center">
-    <a href="https://www.mysql.com/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" height="60" width="60"
-        alt="mongodb"/> 
-    </a> 
-  </p>
-  <p>
-  <h3 align="center">Version Control & CI/CD</h3>
-  <p align="center">
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="60" width="60" 
-        alt="git"/>
-    </a>
-    <a href="https://github.com/Mhyar-nsi" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="60" width="60" alt="github" />
-    </a>
-  </p>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="74" height="40" alt="discord logo"  />
+  <a href="https://youtube.com/@Mhyar_nsi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="74" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://instagram.com/mhyar_nsi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="74" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/Mhyar_nsi" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="74" height="40" alt="telegram logo"  />
+  </a>
+</div>
 
-  ----
-  
-  <div align="center">
-
-  [![](https://github-readme-stats.vercel.app/api?username=mhyar-nsi&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
-  [![](https://github-readme-streak-stats.herokuapp.com/?user=mhyar-nsi&theme=tokyonight&hide_border=true&locale=en)](https://github.com/mhyar-nsi)
-  </div>
-  
-  <p align="center">
-    <img  src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966"
-      alt="api" />
-  </p>
+###
