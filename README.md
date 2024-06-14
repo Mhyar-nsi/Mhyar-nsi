@@ -12,9 +12,6 @@ Hi there, I'm Mahyar Nasiri 👋
 --- 
 
 <div align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhyar-nsi&theme=blueberry&hide_border=true"/>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=mhyar-nsi&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mhyar-nsi&theme=blueberry&hide_border=true"/>
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=mhyar-nsi&theme=blueberry&show_icons=true&hide_border=true&count_private=true"/>
 </div> 
-
-![mhyar-nsi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhyar-nsi&theme=blueberry&hide_border=true)
-![mhyar-nsi's Stats](https://github-readme-stats.vercel.app/api?username=mhyar-nsi&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
