@@ -12,6 +12,3 @@ Hi there, I'm Mahyar Nasiri 👋
 -   :seedling: I'm a full-stack developer.
 -   🔭 I’m currently working on Cube
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/Mhyar-nsi/Mhyar-nsi/discussions/new)!
--   📫 How to reach me: []
-
----
