@@ -32,23 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves turning ideas
 
 ---
 
-### **🚀 Projects**
-
-#### **Web Development**
-- **Flask API Gateway**: A RESTful API built with Flask, serving as the backbone for multiple microservices.
-- **Next.js Portfolio**: A dynamic, server-rendered portfolio showcasing my work and skills.
-- **React Native App**: A cross-platform mobile application that bridges the gap between iOS and Android.
-- **Three.js Visualizer**: An interactive 3D data visualization tool built with Three.js.
-
-#### **Data & Backend**
-- **Redis Cache Layer**: A high-performance caching layer for a high-traffic web application.
-- **MongoDB Cluster**: A scalable NoSQL database solution for real-time analytics.
-
-#### **Automation**
-- **Web Scraping Toolkit**: A collection of Python scripts for extracting and analyzing data from the web.
-
----
-
 ### **💡 Final Thoughts**
 
 This is more than just a profile—it's a testament to my passion for technology and innovation. Whether it's building scalable backends, crafting beautiful UIs, or solving complex problems, I'm always ready for the next challenge. Let's create something extraordinary together!
