@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Passionate+Coder;Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=00D9FF&vCenter=true&size=22&duration=4000&pause=1000" alt="Typing SVG" />
+</div>
+
 # Hey, I'm Mahyar 👋
 
 Welcome to my GitHub profile! I'm a passionate developer who loves turning ideas into reality through clean, efficient, and scalable code. Below, you'll find a glimpse of my skills, tools, and projects. Let's build something amazing together!
